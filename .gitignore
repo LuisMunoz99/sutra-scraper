@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+
+# Datos generados
+output/
+
+# Archivos temporales o por lotes
+*.rds
+*.csv
+
